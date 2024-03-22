@@ -1,0 +1,2 @@
+caller_id,recipient,call_date,end_time,duration,cost,reference,currency,type
+123,1234,16/08/2016,14:21:33,43,0,12345,GBP,2

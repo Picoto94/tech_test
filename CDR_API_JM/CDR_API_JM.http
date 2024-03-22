@@ -1,0 +1,6 @@
+@CDR_API_JM_HostAddress = http://localhost:5069
+
+GET {{CDR_API_JM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

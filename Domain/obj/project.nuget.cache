@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEBHlmHstkxcvErQhg5DNwqBaWL7qH917onHbKTd6ce7XZuHAokQ1s7KNKELzz4Tr9R3AfQ8aWd+Y/v89RnotA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao.medeiros\\source\\repos\\CDR_API_JM\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-preview-24080-01\\microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-preview-24080-01\\microsoft.net.test.sdk.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-preview-24080-01\\microsoft.testplatform.objectmodel.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-preview-24080-01\\microsoft.testplatform.testhost.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit\\2.7.0\\xunit.2.7.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.analyzers\\1.11.0\\xunit.analyzers.1.11.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.assert\\2.7.0\\xunit.assert.2.7.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.core\\2.7.0\\xunit.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.extensibility.core\\2.7.0\\xunit.extensibility.core.2.7.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.extensibility.execution\\2.7.0\\xunit.extensibility.execution.2.7.0.nupkg.sha512",
+    "C:\\Users\\joao.medeiros\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.7\\xunit.runner.visualstudio.2.5.7.nupkg.sha512"
+  ],
+  "logs": []
+}
